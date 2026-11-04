@@ -1,4 +1,4 @@
-(function () {
+ (function () {
   'use strict';
 
   const FALLBACK = {
@@ -7,7 +7,7 @@
     morningCash: '01030436906', morningInstapay: '01030436906',
     morningInstapayLink: 'https://ipn.eg/S/ahmedmosbah28289/instapay/0xe0kB',
     eveningCash: '01099433936', eveningInstapay: '01099433936',
-    eveningInstapayLink: 'https://ipn.eg/S/ahmedmosbah28289/instapay/0xe0kB',
+    eveningInstapayLink: 'https://ipn.eg/S/amrmosbah22/instapay/5Hytbc',
     wifiSSID: 'C.T', wifiPassword: 'Trust@89',
     address: 'المنصورة، شارع الغزالي، أمام مستشفى الجامعة الرئيسي',
     mapQuery: 'المنصورة شارع الغزالي أمام مستشفى الجامعة الرئيسي'
